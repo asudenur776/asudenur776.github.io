@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://madina-dzhuraboeva.github.io/ru/blog/</link>
+      <atom:link href="https://madina-dzhuraboeva.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madina-dzhuraboeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя была продуктивной и интересной. Каждый день приносил новые знания и практические задания, которые помогают лучше понять мир информационных технологий.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я продолжила изучать основы разработки программ и работать с алгоритмами. Постепенно становится легче понимать логику кода и способы решения задач.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы разбирали принципы эффективной обработки информации и оптимизации программ. Это очень важная часть компьютерных наук.&lt;/li&gt;
+&lt;li&gt;🌐 Также уделила время &lt;strong&gt;основам веб-разработки&lt;/strong&gt;, где познакомилась с базовой структурой веб-страниц и принципами создания простых сайтов.&lt;/li&gt;
+&lt;li&gt;📚 Много времени заняла самостоятельная работа: повторение материала, выполнение практических заданий и поиск дополнительной информации по темам лекций.&lt;/li&gt;
+&lt;li&gt;🤝 Работала над небольшими учебными проектами вместе с одногруппниками, что помогло лучше понять материал и научиться работать в команде.&lt;/li&gt;
+&lt;li&gt;🌿 В свободное время старалась немного отдохнуть, прогуляться и переключиться, чтобы сохранить энергию и мотивацию для дальнейшей учебы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя обучения в университете помогает мне постепенно развивать навыки в области &lt;strong&gt;компьютерных наук&lt;/strong&gt;, лучше понимать технологии и двигаться к будущей профессиональной карьере в сфере IT.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
