@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup Languages | </title>
+    <link>https://madina-dzhuraboeva.github.io/ru/tags/markup-languages/</link>
+      <atom:link href="https://madina-dzhuraboeva.github.io/ru/tags/markup-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup Languages</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madina-dzhuraboeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Markup Languages</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/tags/markup-languages/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с темой &lt;strong&gt;легковесных языков разметки&lt;/strong&gt; — инструментов, которые позволяют удобно форматировать текст без сложных конструкций и громоздкого синтаксиса.&lt;/p&gt;
+&lt;h3 id=&#34;-что-это-такое&#34;&gt;📌 Что это такое?&lt;/h3&gt;
+&lt;p&gt;Легковесные языки разметки — это простые и понятные способы оформления текста с помощью минимального набора символов. Они широко используются в программировании, документации и веб-разработке.&lt;/p&gt;
+&lt;p&gt;В отличие от таких языков, как HTML, они легче читаются даже без обработки и не требуют специальных редакторов.&lt;/p&gt;
+&lt;h3 id=&#34;-примеры-популярных-языков&#34;&gt;💡 Примеры популярных языков&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — один из самых распространённых языков, используется для написания документации, README-файлов и постов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — применяется в технической документации, например, в проектах на Python.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Asciidoc&lt;/strong&gt; — более мощный язык с расширенными возможностями форматирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h3&gt;
+&lt;p&gt;С помощью легковесных языков разметки можно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 создавать заголовки и списки&lt;/li&gt;
+&lt;li&gt;🔗 добавлять ссылки и изображения&lt;/li&gt;
+&lt;li&gt;💻 оформлять код и блоки текста&lt;/li&gt;
+&lt;li&gt;✨ структурировать информацию для удобного восприятия&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример на Markdown:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Заголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Список
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Элемент
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gs&#34;&gt;**Жирный текст**&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;`код`&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-где-это-применяется&#34;&gt;🚀 Где это применяется?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 написание документации&lt;/li&gt;
+&lt;li&gt;🌐 оформление контента для сайтов&lt;/li&gt;
+&lt;li&gt;🧾 ведение заметок и блогов&lt;/li&gt;
+&lt;li&gt;💻 работа с GitHub и другими платформами разработки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-итог&#34;&gt;🌿 Итог&lt;/h3&gt;
+&lt;p&gt;Легковесные языки разметки делают работу с текстом быстрее и удобнее. Они помогают сосредоточиться на содержании, а не на сложной разметке, и являются важным инструментом в арсенале любого IT-специалиста.&lt;/p&gt;
+&lt;p&gt;Изучение таких языков значительно упрощает процесс создания документации и улучшает навыки структурирования информации.&lt;/p&gt;
+&lt;p&gt;А вы уже используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
