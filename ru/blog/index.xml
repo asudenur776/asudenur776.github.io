@@ -5,12 +5,32 @@
     <link>https://madina-dzhuraboeva.github.io/ru/blog/</link>
       <atom:link href="https://madina-dzhuraboeva.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://madina-dzhuraboeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://madina-dzhuraboeva.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя оказалась продуктивной и помогла закрепить ранее изученные темы, а также сделать шаг вперёд в освоении новых навыков. Учёба стала более осмысленной, а подход к выполнению заданий — более уверенным.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я сосредоточилась на практике: решала задачи, связанные с алгоритмами, и старалась писать более чистый и понятный код.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы углубились в анализ сложности и рассмотрели примеры оптимизации решений.&lt;/li&gt;
+&lt;li&gt;🌐 В рамках &lt;strong&gt;веб-разработки&lt;/strong&gt; продолжила изучение HTML и начала знакомство с основами CSS, что позволило лучше понять принципы оформления страниц.&lt;/li&gt;
+&lt;li&gt;📚 Самостоятельная работа включала повторение ключевых тем и выполнение дополнительных заданий для закрепления материала.&lt;/li&gt;
+&lt;li&gt;🤝 Работа в команде над учебными проектами стала более слаженной — удалось эффективнее распределять задачи и обсуждать решения.&lt;/li&gt;
+&lt;li&gt;🌿 Уделяла внимание отдыху и восстановлению, что помогло сохранить концентрацию и продуктивность в течение недели.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно появляется более чёткое понимание того, как знания из разных дисциплин объединяются и формируют основу будущей профессиональной деятельности в IT.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

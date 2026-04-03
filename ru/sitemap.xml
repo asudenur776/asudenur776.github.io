@@ -54,7 +54,7 @@
       href="https://madina-dzhuraboeva.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/tags/academic/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://madina-dzhuraboeva.github.io/ru/tags/academic/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://madina-dzhuraboeva.github.io/tags/academic/"
@@ -64,7 +64,7 @@
       href="https://madina-dzhuraboeva.github.io/ru/tags/academic/"
     /></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://madina-dzhuraboeva.github.io/ru/blog/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://madina-dzhuraboeva.github.io/blog/"
@@ -74,11 +74,11 @@
       href="https://madina-dzhuraboeva.github.io/ru/blog/"
     /></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://madina-dzhuraboeva.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://madina-dzhuraboeva.github.io/ru/tags/presentation-skills/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/publications/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://madina-dzhuraboeva.github.io/ru/publications/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://madina-dzhuraboeva.github.io/publications/"
@@ -88,9 +88,9 @@
       href="https://madina-dzhuraboeva.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://madina-dzhuraboeva.github.io/ru/tags/student-life/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://madina-dzhuraboeva.github.io/ru/tags/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://madina-dzhuraboeva.github.io/ru/tags/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://madina-dzhuraboeva.github.io/tags/"
@@ -99,6 +99,12 @@
       hreflang="ru"
       href="https://madina-dzhuraboeva.github.io/ru/tags/"
     /></url>
+  <url>
+    <loc>https://madina-dzhuraboeva.github.io/ru/blog/03/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://madina-dzhuraboeva.github.io/ru/publications/03/</loc><lastmod>2026-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://madina-dzhuraboeva.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://madina-dzhuraboeva.github.io/ru/publications/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
