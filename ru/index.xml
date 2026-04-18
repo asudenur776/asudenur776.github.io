@@ -169,6 +169,66 @@
     </item>
     
     <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;В современном академическом пространстве исследователю важно не только заниматься наукой, но и грамотно представлять результаты своей работы. Персональный сайт становится удобным инструментом для публикации информации о научных интересах, статьях, проектах, выступлениях и профессиональном опыте.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧑‍🔬 &lt;strong&gt;Персональный академический профиль&lt;/strong&gt; позволяет собрать в одном месте основную информацию о научной деятельности, образовании, достижениях и направлениях исследований.&lt;/li&gt;
+&lt;li&gt;📚 На сайте можно удобно разместить &lt;strong&gt;список публикаций&lt;/strong&gt;, описания научных проектов, материалы конференций и ссылки на внешние ресурсы.&lt;/li&gt;
+&lt;li&gt;📝 Формат сайта на &lt;strong&gt;Hugo Academic&lt;/strong&gt; делает структуру контента понятной и аккуратной, что особенно важно для системного представления исследовательской работы.&lt;/li&gt;
+&lt;li&gt;⚙️ Такой сайт удобно использовать для регулярного обновления информации: добавления новых статей, новостей, анонсов мероприятий и учебных материалов.&lt;/li&gt;
+&lt;li&gt;🌍 Наличие собственного сайта повышает &lt;strong&gt;открытость и доступность&lt;/strong&gt; научной деятельности, помогает коллегам, студентам и потенциальным партнёрам быстрее познакомиться с результатами работы.&lt;/li&gt;
+&lt;li&gt;💡 Кроме того, персональный сайт формирует профессиональный цифровой образ исследователя и становится важной частью академической коммуникации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Создание сайта научного работника — это не только вопрос удобства, но и шаг к более эффективному представлению своей деятельности в профессиональной среде. Такой ресурс помогает систематизировать достижения, сделать научную работу более заметной и упростить взаимодействие с академическим сообществом.&lt;/p&gt;
+&lt;p&gt;А как вы считаете, нужен ли современному исследователю собственный сайт? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях: от анализа данных до моделирования сложных систем. Выбор языка зависит от задач, требований к производительности и удобства работы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков в научной среде. Благодаря библиотекам (NumPy, SciPy, Pandas, Matplotlib) он широко используется для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и анализа данных. Особенно востребован в научных исследованиях, где важна обработка и интерпретация больших массивов данных.&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;C/C++&lt;/strong&gt; — применяются в задачах, где критична высокая производительность: численные методы, моделирование физических процессов, работа с большими вычислениями.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;MATLAB&lt;/strong&gt; — удобен для математического моделирования, инженерных задач и прототипирования алгоритмов. Часто используется в академической среде.&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, сочетающий высокую производительность с удобством синтаксиса. Постепенно набирает популярность в научных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Каждый из этих языков решает свои задачи: где-то важна скорость, где-то — простота и наглядность. Поэтому в научной практике часто используют сразу несколько инструментов.&lt;/p&gt;
+&lt;p&gt;В процессе обучения становится очевидно, что владение разными языками расширяет возможности исследователя и позволяет выбирать наиболее эффективные подходы к решению задач.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы в своей работе или учёбе? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя стала логичным продолжением предыдущей: удалось не только закрепить знания, но и применить их на практике в более сложных задачах. Постепенно формируется системное понимание изучаемых дисциплин.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я сосредоточилась на решении более сложных задач, уделяя внимание оптимизации кода и его читаемости.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; продолжили разбор алгоритмов, а также начали применять теорию к практическим кейсам.&lt;/li&gt;
+&lt;li&gt;🌐 В рамках &lt;strong&gt;веб-разработки&lt;/strong&gt; углубилась в CSS: изучила основы стилизации и попробовала создавать более аккуратные и структурированные страницы.&lt;/li&gt;
+&lt;li&gt;📚 Самостоятельная работа включала выполнение дополнительных задач и повторение сложных тем, что помогло лучше закрепить материал.&lt;/li&gt;
+&lt;li&gt;🤝 Командная работа стала ещё продуктивнее: удалось быстрее находить решения и учитывать разные точки зрения.&lt;/li&gt;
+&lt;li&gt;🌿 Старалась поддерживать баланс между учёбой и отдыхом, что положительно сказалось на концентрации и общем состоянии.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;С каждой неделей обучение становится более осмысленным, а полученные знания начинают складываться в единую картину будущей профессии.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя учебная неделя</title>
       <link>https://madina-dzhuraboeva.github.io/ru/blog/03/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
@@ -786,30 +846,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>

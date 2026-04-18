@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | </title>
+    <link>https://madina-dzhuraboeva.github.io/ru/tags/programming/</link>
+      <atom:link href="https://madina-dzhuraboeva.github.io/ru/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madina-dzhuraboeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Programming</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях: от анализа данных до моделирования сложных систем. Выбор языка зависит от задач, требований к производительности и удобства работы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков в научной среде. Благодаря библиотекам (NumPy, SciPy, Pandas, Matplotlib) он широко используется для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и анализа данных. Особенно востребован в научных исследованиях, где важна обработка и интерпретация больших массивов данных.&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;C/C++&lt;/strong&gt; — применяются в задачах, где критична высокая производительность: численные методы, моделирование физических процессов, работа с большими вычислениями.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;MATLAB&lt;/strong&gt; — удобен для математического моделирования, инженерных задач и прототипирования алгоритмов. Часто используется в академической среде.&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, сочетающий высокую производительность с удобством синтаксиса. Постепенно набирает популярность в научных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 Каждый из этих языков решает свои задачи: где-то важна скорость, где-то — простота и наглядность. Поэтому в научной практике часто используют сразу несколько инструментов.&lt;/p&gt;
+&lt;p&gt;В процессе обучения становится очевидно, что владение разными языками расширяет возможности исследователя и позволяет выбирать наиболее эффективные подходы к решению задач.&lt;/p&gt;
+&lt;p&gt;А какие языки используете вы в своей работе или учёбе? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
